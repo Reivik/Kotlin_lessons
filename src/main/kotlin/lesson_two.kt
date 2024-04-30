@@ -2,7 +2,7 @@ package org.example
 
 fun main() {
     val numberOfOrders: Int = 23
-    val notificationTextSuccessOrder: String = "Spasibo!"
+    val notificationTextSuccessOrder: String = "Spasib!"
     val numberOfEmployees: Int = 2000
 
     //println(numberOfEmployees)
